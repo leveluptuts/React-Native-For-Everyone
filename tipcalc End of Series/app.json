@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "sdkVersion": "17.0.0",
+    "name": "Tip Calc",
+    "version": "1.0.0",
+    "slug": "tipcalc",
+    "icon": "./logo.png",
+    "ios": {
+      "bundleIdentifier": "com.leveluptutorials.tipcalc"
+    },
+    "android": {
+      "package": "com.leveluptutorials.tipcalc"
+    }
+  }
+}
